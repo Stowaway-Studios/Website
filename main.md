@@ -4,11 +4,11 @@ You can use the [editor on GitHub](https://github.com/Stowaway-Studios/Website/e
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Who are we?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+We are a small Development Group On Roblox WantinG TO Expand.
 
-```markdown
+```Who are we?
 Syntax highlighted code block
 
 # Header 1
